@@ -1,0 +1,11 @@
+.btn {
+   display: flex;
+   align-items: center;
+   font-family: 'Manrope', sans-serif;
+}
+
+.btn span {
+   margin-left: 13px;
+   font-size: 18px;
+   line-height: 16px;
+}

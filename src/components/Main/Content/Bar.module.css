@@ -1,0 +1,12 @@
+.bar_sum {
+   margin-bottom: 10px;
+   font-size: 14px;
+   font-weight: 600;
+   line-height: 22px;
+}
+
+.bar_wrapper {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}

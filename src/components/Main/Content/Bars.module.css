@@ -1,0 +1,46 @@
+.bars_wrapper {
+   margin-top: 15px;
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+   max-width: 557px;
+   margin: 0 auto;
+}
+
+.toggle_data{
+   width: 100%;
+   display: flex;
+   justify-content: flex-end;
+}
+
+.bars_btn {
+   font-size: 14px;
+   line-height: 22px;
+}
+
+.bars_btn:focus {
+   font-size: 14px;
+   line-height: 22px;
+   font-weight: 700;
+}
+
+.bars {
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-end;
+   margin-bottom: 5px;
+}
+
+.bars_logos {
+   display: flex;
+   justify-content: space-between;
+}
+
+
+.bars_logo {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 5px 10px;
+   border-radius: 5px;
+}

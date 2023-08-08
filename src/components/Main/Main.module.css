@@ -1,0 +1,8 @@
+.main {
+   display: flex;
+   width: 100%;
+   flex-direction: column;
+   padding: 58px 83px 140px 20px;
+   font-family: 'Manrope', sans-serif;
+   color: #000000;
+}

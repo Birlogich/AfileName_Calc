@@ -1,0 +1,26 @@
+.user_wrapper {
+   display: flex;
+   flex-direction: column;
+   position: relative;
+   font-family: 'Manrope', sans-serif;
+   width: 110px;
+}
+
+.user_nickName {
+   font-weight: 600;
+   color: #2E3271;
+}
+
+.user_subscription {
+   font-weight: 400;
+   color: #7C8DB5;
+   position: absolute;
+   top: 25px;
+}
+
+.user_btn {
+   position: absolute;
+   top: 50%;
+   right: 0px;
+   cursor: pointer;
+}
